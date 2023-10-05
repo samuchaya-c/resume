@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div class="row  fixed-top my-bg2     ">
+    <div class="row  fixed-top my-bg     ">
       <div class="row   ">
         <nav class=" my-nav navbar navbar-expand-lg  ">
           <div class=" my-nav container-fluid"> <a class=" navbar-brand" href="#">S/C</a>
@@ -45,11 +45,11 @@
         </nav>
       </div>
     </div>
-    <div class="row my-bg2 ">
+    <div class="row my-bg ">
       <h4 id="scrollspyHeading1">
         <div class="text-align: center;"> <br>
           <br>
-          <div style="text-align: center;"><img src="images/%CA%9A%20luvnz4a%20%C9%9E.jpg"
+          <div style="text-align: center;"><img src="images/382245879_1363916921220903_5494237978878494887_n.jpg"
               style="width: 133px; height: 133px;" class=" rounded-circle border border-black"></div>
           <div class="my-mb1" style="text-align: center;"><br>
             <h4 id="scrollspyHeading1"></h4>
@@ -74,59 +74,76 @@
           content like digital media production. Adapt at coordinated with the
           team to ensure alignment with project specifications.</p>
       </div>
-      <div class="row my-mb2 ">
-        <div class="row col-md-7  ">
-          <h4 style="text-align: left;"><b>EDUCATION</b></h4>
-          <div class="row  ">
-            <div class="col-md-3  "><br>
-              <div style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
-                  src="images/mortarboard.png" alt="" style="width: 67px; height: 67px;"></div>
-            </div>
-            <div class="col-md-7 my-linel my-bg2"><br>
-              <p> <b>2021-2024</b></p>
-              <p> Bachelor of Arts. Major in Information and Library Science,<br>
-                Minor in Visual arts <br>
-                Silpakorn University </p>
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-6">
+            <h4 style="text-align: center;"><b> EDUCATION</b></h4>
+            <br>
+            <div class="row">
+              <div class="row">
+                <div class="col-md-4" style="text-align: center;"><img src="images/mortarboard.png"
+                    alt="" style="width: 67px; height: 67px;">&nbsp;</div>
+                <div class="col-md-8 my-linel my-bg2">
+                  <p> <b>2021-2024</b></p>
+                  <p> Bachelor of Arts.<br>
+                    Major in Information and<br>
+                    Library Science,<br>
+                    Minor in Visual arts <br>
+                    Silpakorn University </p>
+                </div>
+              </div>
+              <div class="row"><br>
+                <div class="col-md-4" style="text-align: center;"><img src="images/document.png"
+                    alt="" style="width: 67px; height: 67px;"></div>
+                <div class="col-md-8 my-bg2  my-linel ">
+                  <p><b>2014-2020</b></p>
+                  <p>Chiang Rai Municipality School 6</p>
+                  <h4 id="scrollspyHeading2"></h4>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-md-3   " style="text-align: center;">
-              <dl>
-              </dl>
-              <div style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/document.png"
-                  style="width: 67px; height: 67px;"></div>
-              <dl>
-              </dl>
-            </div>
-            <div class="col-md-7 my-bg2  my-linel ">
-              <p> <b>2014-2020</b></p>
-              <p>Chiang Rai Municipality School 6</p>
-              <h4 id="scrollspyHeading2"></h4>
+          <div class="col-md-6 my-mb2">
+            <h4 style="text-align: center;"><b>LANGUAGE</b></h4>
+            <p><br>
+            </p>
+            <div class="row">
+              <div class="col-md-6">
+                <div style="text-align: center;"><img src="images/united-kingdom.png"
+                    style="width: 80px; height: 80px;"></div>
+                <div style="text-align: center;"><br>
+                </div>
+                <div>
+                  <p style="text-align: center;">ENGLISH</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div style="text-align: center;"><img src="images/thailand.png"
+                    style="width: 80px; height: 80px;"></div>
+                <div style="text-align: center;"><br>
+                </div>
+                <div>
+                  <p style="text-align: center;">THAI</p>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="row col-md-5 my-mb2" style="text-align: center;"> <br>
-          <dl>
-            <dd> <img src="images/magicEraser_5661005_130634.png" alt="" style="width: 345px; height: 314px;"></dd>
-          </dl>
         </div>
       </div>
       <div class="row my-mb2 ">
-        <div class="col-md-6 grid gap-3 ">
+        <div class="col-md-6 grid gap-3 my-mb2 ">
           <h4 style="text-align: center;"> <b>SOFTWARE SKILLS</b></h4>
           <br>
           <div class="p-2 g-col-6" style="text-align: center;"> <img src="images/html-7.png"
-              style="width: 70px; height: 90px;">&nbsp; <img src="images/java-script-js-logo-ACF4AE5082-seeklogo.com.png"
-              style="width: 70px; height: 90px;">&nbsp; <img src="images/css3_logo_and_wordmark.svg.png"
-              alt="" style="width: 70px; height: 90px;"></div>
+              style="width: 78px; height: 100px;">&nbsp; <img src="images/java-script-js-logo-ACF4AE5082-seeklogo.com.png"
+              style="width: 78px; height: 100px;">&nbsp; <img src="images/css3_logo_and_wordmark.svg.png"
+              alt="" style="width: 78px; height: 100px;"></div>
           <br>
           <div class="p-2 g-col-6" style="text-align: center;"> <img src="images/photoshop.png"
-              alt="" style="width: 70px; height: 70px;">&nbsp; <img src="images/adobe_Photoshop_Lightroom_CC_logo.svg.png"
-              alt="" style="width: 70px; height: 70px;"> </div>
-          <div class="p-2 g-col-6"> &nbsp;</div>
-          <div class="p-2 g-col-6"></div>
+              alt="" style="width: 84px; height: 84px;"> &nbsp; <img src="images/adobe_Photoshop_Lightroom_CC_logo.svg.png"
+              alt="" style="width: 84px; height: 84px;"> </div>
         </div>
-        <div class="col-md-6 ">
+        <div class="col-md-6 my-mb2">
           <h4 style="text-align: center;"> <b>MY ABILITY</b> </h4>
           <br>
           <div class="row">
@@ -137,20 +154,21 @@
                   <p> Photography </p>
                 </div>
               </div>
-              <div class="p-2 g-col-6"><img src="images/thinking.png" alt="" style="width: 77px; height: 77px;">
+              <div class="p-2 g-col-6"><img src="images/thinking.png" alt="" style="width: 79px; height: 79px;">
+                <br>
                 <br>
                 <p> Design Thinking</p>
               </div>
             </div>
             <div class="col-md-6 grid gap-5" style="text-align: center;">
               <div class="p-2 g-col-6"><img src="images/video-editor.png" alt=""
-                  style="width: 77px; height: 77px;"> <br>
+                  style="width: 83px; height: 83px;"> <br>
                 <p> Video editor</p>
                 <h4 id="scrollspyHeading3"></h4>
               </div>
-              <div class="p-2 g-col-6"><img src="images/edit.png" alt="" style="width: 77px; height: 77px;">
-                <br>
-                <p> Copy writing</p>
+              <div class="p-2 g-col-6"><img src="images/edit.png" alt="" style="width: 81px; height: 81px;"></div>
+              <div class="p-2 g-col-6">
+                <p> Copy writing </p>
               </div>
             </div>
           </div>
@@ -168,7 +186,7 @@
                   title=" " target="_blank"> @getthrough_covid19</a></p>
             </li>
             <li>
-              <p>Create an infographic for give information about COVID-19</p>
+              <p>Create an infographic for giving information about COVID-19</p>
             </li>
           </ul>
         </div>
@@ -187,7 +205,7 @@
               data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span> </button> <button
               class="carousel-control-next" type="button" data-bs-target="#carouselExample"
-              data-bs-slide="next" style="top: 0px; left: 380px;"> <span class="carousel-control-next-icon"
+              data-bs-slide="next" style="top: -2px; left: 310px;"> <span class="carousel-control-next-icon"
                 aria-hidden="true"></span> <span class="visually-hidden">Next</span>
             </button> </div>
         </div>
