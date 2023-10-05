@@ -19,7 +19,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div class="row  fixed-top     ">
+    <div class="row  fixed-top my-bg     ">
       <div class="row   ">
         <nav class=" my-nav navbar navbar-expand-lg  ">
           <div class=" my-nav container-fluid"> <a class=" navbar-brand" href="#">S/C</a>
@@ -63,8 +63,16 @@
 
               style="width: 133px; height: 133px;" class=" rounded-circle border border-black"></div>
           <div class="my-mb1" style="text-align: center;"><br>
+            <h4 id="scrollspyHeading1"></h4>
+            <h3></h3>
             <h1>SAMUCHAYA CHAWAWIGRAN</h1>
             <h3> Content Creator</h3>
+            <h4 id="scrollspyHeading1">
+            </h4>
+            <p>&nbsp;</p>
+            <p>
+            </p>
+            <h3> </h3>
             <br>
             <a href="https://www.facebook.com/" title=" " target="_blank"> <img
 
@@ -248,6 +256,5 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
-    
   </body>
 </html>
