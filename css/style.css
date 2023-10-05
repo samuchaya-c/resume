@@ -8,7 +8,7 @@
  border-bottom-style: solid;
 }
 .fixed-top{
-   background-image: url("../images/img_4946.jpg");
+   background-image: url("../images/img_4946.png");
  
 }
 .my-linel{
@@ -44,7 +44,7 @@ body{
 }
 .my-bg{ 
   
-  background-image: url("../images/img_4946.jpg");
+  background-image: url("../images/mybg.jpg");
 }
   
 .my-box {
@@ -73,5 +73,6 @@ h4 {
   border-radius: 20px;
 }
  
-
+.my-bg2{
+  background-color : #fce3e0;}
  

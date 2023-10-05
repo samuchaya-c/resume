@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <div class="row  fixed-top my-bg     ">
+    <div class="row  fixed-top my-bg2     ">
       <div class="row   ">
         <nav class=" my-nav navbar navbar-expand-lg  ">
           <div class=" my-nav container-fluid"> <a class=" navbar-brand" href="#">S/C</a>
@@ -45,7 +45,7 @@
         </nav>
       </div>
     </div>
-    <div class="row my-bg ">
+    <div class="row my-bg2 ">
       <h4 id="scrollspyHeading1">
         <div class="text-align: center;"> <br>
           <br>
@@ -82,7 +82,7 @@
               <div style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
                   src="images/mortarboard.png" alt="" style="width: 67px; height: 67px;"></div>
             </div>
-            <div class="col-md-7 my-linel my-bg"><br>
+            <div class="col-md-7 my-linel my-bg2"><br>
               <p> <b>2021-2024</b></p>
               <p> Bachelor of Arts. Major in Information and Library Science,<br>
                 Minor in Visual arts <br>
@@ -98,7 +98,7 @@
               <dl>
               </dl>
             </div>
-            <div class="col-md-7 my-bg  my-linel ">
+            <div class="col-md-7 my-bg2  my-linel ">
               <p> <b>2014-2020</b></p>
               <p>Chiang Rai Municipality School 6</p>
               <h4 id="scrollspyHeading2"></h4>
@@ -213,8 +213,7 @@
         </div>
       </div>
     </div>
-    <div class="row my-line2"> <img src="images/IMG_4946.1.JPG" class="img-fluid"
-        style=" height: 61px;"></div>
+    <div class="row my-line2 "> <img src="images/bg.jpg" class="img-fluid" style=" height: 61px;"></div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 crossorigin="anonymous"></script>
